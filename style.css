@@ -192,7 +192,7 @@ header.sticky .free-trail-btn{
 
 header.sticky .logo,
 header.sticky ul li a{
-    color: #FF2D61;
+        color: #FF2D61 !important;
 }
 
 header.sticky .horizontal-list-tabs li a:hover, .other-header.sticky .horizontal-list-tabs li a:hover{
